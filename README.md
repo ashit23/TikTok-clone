@@ -10,3 +10,6 @@ This is just a small app basically a tik tok clone which has videos which change
 
 <a href="https://user-images.githubusercontent.com/74149479/120062571-cd88af80-c017-11eb-8fe1-422ae4326012.pngg" />
 <img width="23%" src="https://user-images.githubusercontent.com/74149479/120062571-cd88af80-c017-11eb-8fe1-422ae4326012.png" alt="Scan Input" title="Scan Input"></img>
+
+<a href="https://user-images.githubusercontent.com/74149479/120062658-26584800-c018-11eb-971d-7c51f9b99c8f.png" />
+<img width="23%" src="https://user-images.githubusercontent.com/74149479/120062658-26584800-c018-11eb-971d-7c51f9b99c8f.png" alt="Scan Input" title="Scan Input"></img>
